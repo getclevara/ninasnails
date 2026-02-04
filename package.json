@@ -1,0 +1,11 @@
+{
+  "name": "ari-nails-hilo",
+  "version": "1.0.0",
+  "description": "Website for Ari Nails salon in Hilo, Hawaii",
+  "scripts": {
+    "start": "npx serve public",
+    "dev": "npx serve public"
+  },
+  "keywords": ["nail-salon", "hilo", "hawaii"],
+  "license": "MIT"
+}
